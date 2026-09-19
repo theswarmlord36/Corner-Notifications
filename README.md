@@ -4,6 +4,12 @@
 
 Move Mac notification banners to any corner, hide them on a timer, or swipe them away, all while keeping your notification history.
 
+## Download
+
+[Download Corner Notifications for Mac](https://github.com/theswarmlord36/Corner-Notifications/releases/download/v1.1.0-beta/Corner-Notifications-1.1.0-beta.zip)
+
+Public beta. Not notarized by Apple. See installation instructions below.
+
 ## Features
 
 - **Choose any corner:** Top left, top right, bottom left, or bottom right.
